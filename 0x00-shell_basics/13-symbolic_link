@@ -1,0 +1,2 @@
+#!/bin/bash
+Ls –s /bin/ls _is_
